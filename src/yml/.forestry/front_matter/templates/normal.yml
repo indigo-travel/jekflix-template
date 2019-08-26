@@ -2,3 +2,5 @@
 label: normal
 hide_body: false
 fields: []
+pages:
+- src/yml/_posts/expage.md
